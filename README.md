@@ -8,6 +8,5 @@ of this reconstruction error in HSV space. ROC analysis is used to set the optim
 threshold on this measure, as well as, the percentage of positive patches in a
 sample that determines the presence of H. pylori. 
 
-We provide Python code and a sample of the database. The full dataset with annotations (around 19 Gb) can be downloaded from here
-
+We provide Python code and a sample of the database. The full dataset with annotations (around 19 GB) will be able to be downloaded soon here
 
